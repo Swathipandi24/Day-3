@@ -1,3 +1,5 @@
+program using arrow  functions
+
 a// Print odd numbers in an array
 const printOddNumbers = arr => {
     arr.forEach(num => {
